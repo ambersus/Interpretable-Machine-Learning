@@ -17,6 +17,7 @@ This project performs heart disease prediction using machine learning. It applie
     Scales features for standardization.
 
 2. Feature Selection and Modeling
+   
   a. RFE (Recursive Feature Elimination)
 
       Selects the most important features by recursively removing less important ones.
